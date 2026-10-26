@@ -23,7 +23,7 @@
   ],
   "depends": {
     "fabricloader": "\u003e\u003d0.16.9",
-    "minecraft": "~1.21.1",
+    "minecraft": "~1.21.11",
     "java": "\u003e\u003d17",
     "fabric-api": "*",
     "geckolib": "\u003e\u003d4.7",
